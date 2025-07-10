@@ -1,0 +1,127 @@
+@import url('/assets/css/common.css');
+@import url('/assets/css/notice_list.css');
+
+.notice {
+  padding: var(--padding-sec);
+  .notice_title {
+    h2 {
+      font-size: 2.6rem;
+      font-weight: 300;
+    }
+  }
+  .notice_head {
+    padding: 30px 0 40px 0;
+    display: flex;
+    .type{
+      width: 14%;
+      p {
+      display: inline-block;
+      font-size: 1.6rem;
+      padding: 90px 76px;
+      background: var(--Stroke-color);
+      }
+    }
+    .head_content {
+      width: 86%;
+      border: 1px solid var(--Stroke-color);
+      .title {
+      h2 {
+        font-size: 2.2rem;
+        padding: 57px 0 57px 50px;       
+        border-bottom: 1px solid var(--Stroke-color);
+      }
+      }
+     .info {
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      padding: 22px 44px 22px 0;
+      .date {
+        margin-right: 80px;
+        font-size: 1.3rem;
+        p {
+          font-size: 1.3rem;
+        }
+
+        }
+      .views {
+          display: flex;
+          img {
+            width: 12.5px;
+          }
+          p {
+            font-size: 1.2rem;
+            margin-left: 5px;
+          }
+      
+         }
+     }
+  }
+}
+.notice_content {
+    padding: 40px 0 150px 0;
+    h3 {
+      padding: 20px 0;
+     font-size: 2.2rem;
+      .line {
+        margin-top: 10px;
+        width: 100px;
+        height: 1px;
+        background: var(--Black-01);
+      }
+    }
+    p {
+      font-weight: 500;
+      font-size: 1.6rem;
+      padding: 0;
+      span {
+        color: var(--sub-Color3-blue);
+      }
+    }
+}
+}
+
+
+@media (max-width : 1280px ) {
+  
+}
+
+
+@media (max-width : 768px ) {
+.notice .notice_head .head_content .title h2 {
+    padding: 57px 0 57px 110px;
+}
+.notice .notice_head .head_content .info .date,
+.notice .notice_head .head_content .info .views p{
+    font-size: 1.6rem;
+}
+}
+
+
+@media (max-width : 480px ) {
+.notice .notice_content {
+  padding: 40px 0;
+}
+
+.notice .notice_content p {
+  font-size: 12px;
+}
+
+.notice .notice_head .head_content {
+  width: 100%;
+}
+
+.notice .notice_head .head_content .info {
+  padding: 10px;
+}
+
+.notice .notice_head .head_content .title h2 {
+  padding: 12px;
+}
+
+.notice .notice_head .type p {
+  padding: 10px 26px;
+}
+
+}

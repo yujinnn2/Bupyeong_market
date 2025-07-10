@@ -1,0 +1,92 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+:root {
+  --main-bg-color:#FAFAFA;
+  --main-color:#82A90D;
+  --sub-Color-skyblue:#02A7D7;
+  --sub-Color2-green:#29AE51;
+  --sub-Color3-blue:#1D51B8;
+  --sub-Color4-purple:#5D34EC;
+  --Black-01:#17171B;
+  --Black-02:#202632;
+  --Grey-01:#54575D;
+  --Grey-02:#A1A1A1;
+  --Grey-03:#E1E1E0;
+  --Grey-04:#F3F4F6;
+  --White-01:#FFFFFF;
+  --padding-sec: 80px 0;
+  --Stroke-color:#EEEDF2;
+  --Hover-color:#F6FDFF;
+  
+}
+
+* {
+  box-sizing: border-box;
+  word-break: keep-all;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: Pretendard ;
+  background: var(--main-bg-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+/* component */
+
+/* 네브바 */
+
+
+/* 메인 상단 이미지배너 */
+.maintop {
+  padding: var(--padding-sec);
+}
+.maintop .mainlogo_img {
+  margin: 0 auto;
+  width: 30%;
+}
+.maintop .mainlogo_img img {
+  width: 100%;
+}
+
+
+/* 푸터 */
+
+
+
+
+
+/* margin */
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-60 {
+  margin-top: 60px;
+}
+
+.mb-50 {
+ margin-bottom: 50px;
+}
+
+.mb-45 {
+ margin-bottom: 45px;
+}
+
+
+

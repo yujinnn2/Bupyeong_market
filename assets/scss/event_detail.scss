@@ -1,0 +1,138 @@
+@import url("/assets/css/common.css");
+
+/* section*/
+
+.event_detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  .detail_box{
+    align-items: center;
+  }
+  img{
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top-title{
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .top-title h2{
+    font-size: 4rem; /* 40px = 4rem */
+    font-weight: bold;
+  }
+  .bottom_title span{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    font-weight: bold;
+    margin-bottom: 28px;
+  }
+  .bottom_title .h4{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    color: #54575D;
+  }
+  p{
+    margin-top: 45px;
+    font-size: 1.8rem; /* 18px = 1.8rem */
+  }
+}
+
+.event_detail_two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  .detail_box{
+    align-items: center;
+  }
+  img{
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top-title{
+    margin-bottom: 50px;
+    text-align: left;
+  }
+  .top-title h2{
+    font-size: 4rem; /* 40px = 4rem */
+    font-weight: bold;
+  }
+  .bottom_title .h4{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    color: #54575D;
+  }
+  p{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    margin-bottom: 45px;
+  }
+}
+
+.event_detail_three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  .detail_box{
+    align-items: center;
+  }
+  img{
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top-title{
+    margin-bottom: 50px;
+    text-align: left;
+  }
+  .top-title h2{
+    font-size: 4rem; /* 40px = 4rem */
+    font-weight: bold;
+  }
+  .bottom_title .h4{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    color: #54575D;
+  }
+  p{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    margin-bottom: 45px;
+  }
+}
+
+.event_detail_four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .detail_box{
+    align-items: center;
+  }
+  img{
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top-title{
+    margin-bottom: 50px;
+    text-align: left;
+  }
+  .top-title h2{
+    font-size: 4rem; /* 40px = 4rem */
+    font-weight: bold;
+  }
+  p{
+    font-size: 1.8rem; /* 18px = 1.8rem */
+    margin-bottom: 45px;
+  }
+}

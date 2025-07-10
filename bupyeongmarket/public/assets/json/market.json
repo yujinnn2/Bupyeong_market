@@ -1,0 +1,182 @@
+[
+  {
+    "img": "/assets/images/list__img01.png",
+    "name": "육즙가득 고기나라",
+    "locate": "2구역",
+    "description": "항상 신선한 고기만을 엄선하여 그 특유의 육즙과 맛을 살렸습니다. 각종 구이용부터 찜용까지 다양한 부위를 다양하게 취급하며 가족 단위 고객들에게 인기가 많습니다."
+  },
+  {
+    "img": "/assets/images/list__img02.png",
+    "name": "신선한 고기 마을",
+    "locate": "1구역",
+    "description": "매일 아침 신선하게 입고되는 고기를 엄선하여 최상의 맛과 품질을 제공합니다. 다양한 부위와 맞춤형 서비스로 많은 고객들의 사랑을 받고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img03.png",
+    "name": "풍성한 농산물터",
+    "locate": "3구역",
+    "description": "풍부한 색과 신선한 채소가 가득한 농산물 전문 구역입니다. 제철 과일과 채소를 합리적인 가격에 제공하며 지역 주민들의 발길이 끊이지 않습니다."
+  },
+  {
+    "img": "/assets/images/list__img04.png",
+    "name": "바다의 신선함 어시장",
+    "locate": "2구역",
+    "description": "시장에서 직접 선별한 싱싱한 해산물을 만나보세요. 계절별 다양한 수산물과 특산물을 제공하며 맛과 신선도를 모두 잡았습니다."
+  },
+  {
+    "img": "/assets/images/list__img05.png",
+    "name": "전통 먹거리 골목",
+    "locate": "4구역",
+    "description": "다양한 전통 먹거리와 반찬을 경험할 수 있는 골목입니다. 손수 만든 반찬과 함께 맛깔난 먹거리로 시장 방문객들의 입맛을 사로잡습니다."
+  },
+  {
+    "img": "/assets/images/list__img06.png",
+    "name": "가정용 생활용품관",
+    "locate": "1구역",
+    "description": "가정에서 필요한 다양한 생활용품을 합리적인 가격에 제공합니다. 깨끗하고 다양해 늘 만족스러운 쇼핑이 가능합니다."
+  },
+  {
+    "img": "/assets/images/list__img07.png",
+    "name": "신선과일 장터",
+    "locate": "3구역",
+    "description": "제철과일을 비롯한 싱싱한 과일들이 늘 가득합니다. 건강한 먹거리를 찾는 고객들의 단골 장소로 자리매김하고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img08.png",
+    "name": "신선한 채소촌",
+    "locate": "2구역",
+    "description": "다양한 제철 채소가 풍성하게 준비되어 있어 신선함을 바로 느낄 수 있습니다. 엄선된 농산물이 가득해 건강한 식탁을 책임집니다."
+  },
+  {
+    "img": "/assets/images/list__img09.png",
+    "name": "뜨거운 맛 고기부락",
+    "locate": "4구역",
+    "description": "정성껏 손질한 고기를 맛볼 수 있는 곳으로, 다양한 부위와 뛰어난 육질이 고객 만족도를 높이고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img10.png",
+    "name": "바다향 생선가게",
+    "locate": "1구역",
+    "description": "시장에서 갓 잡아 올린 신선한 생선들이 가득합니다. 제철 수산물을 다양하게 취급하여 푸짐한 식탁을 선사합니다."
+  },
+  {
+    "img": "/assets/images/list__img11.png",
+    "name": "시장 속 과일정원",
+    "locate": "3구역",
+    "description": "한 눈에 보기 좋은 과일들이 즐비한 공간이며 신선도와 당도가 뛰어나 많은 고객의 사랑을 받고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img12.png",
+    "name": "생활용품 파라다이스",
+    "locate": "4구역",
+    "description": "주방부터 세탁용품까지 다양한 생활용품을 저렴한 가격에 제공하며, 꼼꼼한 서비스로 만족도가 높은 매장입니다."
+  },
+  {
+    "img": "/assets/images/list__img13.png",
+    "name": "채소와 건강마켓",
+    "locate": "1구역",
+    "description": "신선한 채소와 건강식품이 가득한 마켓으로 균형 잡힌 식단을 원하는 고객들에게 최적의 장소입니다."
+  },
+  {
+    "img": "/assets/images/list__img14.png",
+    "name": "푸짐한 정육시장",
+    "locate": "3구역",
+    "description": "신선하고 다양한 고기 부위를 합리적인 가격에 제공하며, 고객의 취향에 맞춘 맞춤 서비스가 특징입니다."
+  },
+  {
+    "img": "/assets/images/list__img15.png",
+    "name": "싱싱한 해산물 광장",
+    "locate": "2구역",
+    "description": "갓 잡은 해산물을 선별하여 신선하게 진열하고 있으며, 계절별 특산물도 다양하게 만나볼 수 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img16.png",
+    "name": "푸릇한 채소시장",
+    "locate": "4구역",
+    "description": "신선하고 다양한 종류의 채소가 풍성하게 준비되어 있으며, 건강을 생각하는 소비자들에게 인기가 높습니다."
+  },
+  {
+    "img": "/assets/images/list__img17.png",
+    "name": "따뜻한 먹거리촌",
+    "locate": "1구역",
+    "description": "전통 음식부터 간편한 먹거리까지 맛과 향이 풍부한 다양한 메뉴를 제공하며 지역 주민의 사랑을 받고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img18.png",
+    "name": "다채로운 과일시장",
+    "locate": "3구역",
+    "description": "제철 과일부터 희귀 과일까지 다양한 과일을 엄선하여 고객에게 최상의 신선도를 약속합니다."
+  },
+  {
+    "img": "/assets/images/list__img19.png",
+    "name": "실속형 생활용품 코너",
+    "locate": "2구역",
+    "description": "가정에 꼭 필요한 생활용품을 저렴한 가격에 제공하며, 품질 좋은 상품으로 신뢰를 쌓아가고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img20.png",
+    "name": "바다 신선미 어장",
+    "locate": "4구역",
+    "description": "해산물의 신선함을 최대한 살려 매일 신선한 수산물을 공급하며 다양한 종류를 만나볼 수 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img21.png",
+    "name": "맛있는 고기터",
+    "locate": "1구역",
+    "description": "육질이 부드럽고 신선한 다양한 고기를 준비하여 고객 만족과 입맛을 모두 잡았습니다."
+  },
+  {
+    "img": "/assets/images/list__img22.png",
+    "name": "싱그러운 농산물장터",
+    "locate": "3구역",
+    "description": "계절별 신선한 농산물을 다양하게 판매하며, 신뢰할 수 있는 공급처에서 들여와 품질이 뛰어납니다."
+  },
+  {
+    "img": "/assets/images/list__img23.png",
+    "name": "전통 수산물 골목",
+    "locate": "2구역",
+    "description": "오래된 노하우로 직접 선별한 신선한 수산물과 특산물을 다양하게 취급하고 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img24.png",
+    "name": "푸드 스트리트 먹거리",
+    "locate": "4구역",
+    "description": "다양한 길거리 음식과 간편식품을 만나볼 수 있는 곳으로, 시장의 활기를 그대로 경험할 수 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img25.png",
+    "name": "가정필수 생활관",
+    "locate": "1구역",
+    "description": "실생활에 필요한 다양한 물품을 저렴하게 공급하며, 고객 맞춤 서비스로 편리함을 제공합니다."
+  },
+  {
+    "img": "/assets/images/list__img26.png",
+    "name": "신선채소 맛의 거리",
+    "locate": "3구역",
+    "description": "풍성하고 다양한 신선 채소가 가득하여 건강한 식습관을 원하는 이들에게 안성맞춤입니다."
+  },
+  {
+    "img": "/assets/images/list__img27.png",
+    "name": "바다 선물 생선가게",
+    "locate": "2구역",
+    "description": "제철 수산물을 다양하게 취급하며 시장에서 직접 신선한 해산물을 만나볼 수 있습니다."
+  },
+  {
+    "img": "/assets/images/list__img28.png",
+    "name": "전통 먹거리 거리",
+    "locate": "4구역",
+    "description": "손수 만든 전통 반찬과 다양한 먹거리를 맛볼 수 있는 명소로 지역 주민들에게 인기 만점입니다."
+  },
+  {
+    "img": "/assets/images/list__img29.png",
+    "name": "생활용품 버거스",
+    "locate": "1구역",
+    "description": "필요한 가정용품을 저렴한 가격으로 다양하게 갖추고 있으며 고객 만족도가 높습니다."
+  },
+  {
+    "img": "/assets/images/list__img30.png",
+    "name": "시장의 맛 과일가게",
+    "locate": "3구역",
+    "description": "신선하고 당도가 높은 제철 과일을 판매하며, 단골 손님에게 언제나 좋은 품질을 약속합니다."
+  }
+]

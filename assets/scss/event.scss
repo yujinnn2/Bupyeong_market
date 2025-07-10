@@ -1,0 +1,132 @@
+@import url('/assets/css/common.css');
+
+
+.section01 {
+
+    .main_event {
+        border: 1px solid var(--main-color);
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .img {
+            overflow: hidden;
+            border-radius: 15px 0 0 15px;
+            img {
+                transition: all .3s;
+            }
+            &:hover {
+                img {
+                    transform: scale(1.03);
+                }
+            }
+        }
+        .text-wrap {
+            margin-left: 50px;
+            h2 {
+            font-size: 3.2rem;
+            font-weight: 700;
+            }
+            p {
+                font-size: 2.4rem;
+                margin: 20px 0 50px;
+            }
+             a {
+             display: inline-block;
+             padding: 10px 50px;
+            font-size: 2.4rem;
+            font-weight: 700;
+            border-radius: 30px;
+            color: var(--White-01);
+            background: var(--main-color);
+            }
+        }
+
+
+    }
+
+    .event_wrap {
+    padding: var(--padding-sec);
+     grid-template-columns: repeat(3, 1fr);
+     .event {
+            .img {
+            overflow: hidden;
+            border-radius: 15px 15px 0 0;
+            img {
+                transition: all .3s;
+            }
+            &:hover {
+                img {
+                    transform: scale(1.03);
+                }
+            }
+        }
+        h2 {
+            margin-top: 20px;
+            font-size: 2.6rem;
+            font-weight: 600;
+        }
+        p {
+            font-size: 2.2rem;
+            color: var(--Grey-02);
+        }
+     }
+    }
+}
+
+@media (max-width: 1280px) {
+.section01 .main_event .text-wrap {
+    margin-left: 30px;
+}
+}
+
+@media (max-width: 768px) {
+.section01 .event_wrap {
+        grid-template-columns: repeat(2, 1fr);
+}
+
+}
+
+
+@media (max-width: 480px) {
+    .col-md-7{
+    width: 100%;
+}
+.col-md-5{
+    width: 100%;
+}
+.d-flex.main_event {
+    flex-direction: column;
+    text-align: center;
+}
+
+.section01 .main_event .img {
+    height: 200px;
+}
+
+.section01 .main_event .text-wrap {
+    margin-left: 0;
+    padding: 20px 0;
+    
+}
+.section01 .main_event .text-wrap p {
+    font-size: 2.4rem;
+    margin: 10px 0;
+}
+.section01 .main_event .text-wrap a{
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+    
+.section01 .event_wrap {
+ grid-template-columns: repeat(1, 1fr);
+}
+
+.section01 .event_wrap .event .img {
+    height: 250px;
+}
+}
+
