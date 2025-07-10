@@ -1,4 +1,4 @@
-# Bupyeong_market
+# Bupyeong_market README
 
 
 ![Image](https://github.com/user-attachments/assets/ae47b0d0-cc56-4604-afa1-90a8c2e2cdcf)
@@ -179,7 +179,7 @@ text
 ![Image](https://github.com/user-attachments/assets/48776fe2-c3a1-4b9d-a288-6d600e6f82ab)
 
 
-### ✨ 기타 적용 사항 요약
+## ✨ 기타 적용 사항 요약
 
 | 항목 | 내용 |
 | --- | --- |
