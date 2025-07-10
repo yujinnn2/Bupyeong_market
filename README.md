@@ -1,7 +1,5 @@
 # Bupyeong_market
 
-# 부평종합시장 re-design README
-
 
 ![Image](https://github.com/user-attachments/assets/ae47b0d0-cc56-4604-afa1-90a8c2e2cdcf)
 
